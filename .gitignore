@@ -43,3 +43,6 @@ Thumbs.db
 .vscode/tasks.json
 .vscode/launch.json
 .vscode/extensions.json
+/.vs/VSWorkspaceState.json
+/.vs/tracerco-ui/v17/.suo
+/.vs/slnx.sqlite
